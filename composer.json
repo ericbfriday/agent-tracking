@@ -19,7 +19,7 @@
         "laravelcollective/html": "^5.1",
         "league/fractal": "^0.16.0",
         "nopjmp/discord-webhooks": "^0.3.1",
-        "paragonie/random_compat": "~1.4",
+        "paragonie/random_compat": "~2.0",
         "proengsoft/laravel-jsvalidation": "2.1.*",
         "tymon/jwt-auth": "1.0.0-rc.1",
         "unisharp/laravel-ckeditor": "^4.7",
